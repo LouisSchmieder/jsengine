@@ -1,0 +1,4 @@
+[
+  { "type":  "VERTEX_SHADER", "src":  "vert.shader", "name": "vertex" },
+  { "type":  "FRAGMENT_SHADER", "src":  "frag.shader", "name": "fragment" }
+]
